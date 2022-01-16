@@ -3,6 +3,7 @@
 
 We will learn to implement transfer learning in Python. For this implementation, we will use the flower recognition dataset from Kaggle.   This dataset has around 4000 images from 5 different classes, namely daisy, dandelion, rose, sunflower and tulip. 
 
+![alt text](https://github.com/Ashutosh27ind/kerasTransferLearningCNNflowerDataset/blob/main/normalization_image.PNG?raw=true)
 
 ### Data source : https://www.kaggle.com/alxmamaev/flowers-recognition
 
